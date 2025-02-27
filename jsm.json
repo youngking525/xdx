@@ -1,17 +1,17 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-        {
-            "key": "https://github.com/fish2018/PG",
-            "name": "202502271606",
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250227-1606.zip",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0,
-            "changeable": 1,
-            "indexs": 1,
-            "ext": "./lib/douban.json"
-        },
+		{
+			"key": "https://github.com/fish2018/PG",
+			"name": "202502271606",
+			"zip": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250227-1606.zip",
+			"type": 3,
+			"api": "csp_Douban",
+			"searchable": 0,
+			"changeable": 1,
+			"indexs": 1,
+			"ext": "./lib/douban.json"
+		},
 		{
 			"key": "豆瓣",
 			"name": "豆瓣",
